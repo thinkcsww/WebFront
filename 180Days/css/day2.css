@@ -1,0 +1,39 @@
+/* Day 2 */
+.day2 {
+  background-color: black;
+}
+
+.day2 .textContainer {
+  margin: 20px auto;
+  color: white;
+  width: 700px;
+  text-align: center;
+}
+.day2 .textContainer #title {
+  font-size: 50px;
+}
+
+.day2 .textContainer #explain {
+  display: block;
+  font-size: 18px;
+  line-height: 1.4;
+}
+
+.day2 .doorContainer {
+  text-align: center;
+
+}
+
+.day2 .doorContainer .door {
+  text-align: center;
+  display: inline-block;
+  margin: 30px;
+}
+
+.day2 .thing_container {
+  margin: 30px;
+}
+
+a {
+  color: orange;
+}

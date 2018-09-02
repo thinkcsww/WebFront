@@ -1,0 +1,14 @@
+.main .title {
+  font-size: 50px;
+  color: orange;
+}
+
+.main .pageName{
+  color: purple;
+}
+.main a:visited {
+  color: black
+}
+.main a {
+  color: #8b00e0;
+}
