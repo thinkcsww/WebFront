@@ -3,12 +3,9 @@
   color: orange;
 }
 
-.main .pageName{
-  color: purple;
-}
-.main a:visited {
-  color: black
-}
-.main a {
+a {
   color: #8b00e0;
+}
+a:visited{
+  color: black;
 }
